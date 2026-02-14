@@ -1,26 +1,13 @@
-# Python
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-
 # Environments
 venv/
-.venv/
+venv_linux/
 
-# Jupyter (if you use it)
-.ipynb_checkpoints/
-
-# Data & models (edit to taste)
+# Data & models
 data/
 Test data/
 models/
 best model/
 
-# Results/plots (optional: keep if you want)
-# *.png
-
 # IDEs
-.vscode/
 .idea/
 
